@@ -1,3 +1,5 @@
+<meta name="twitter:image" content="https://image.shutterstock.com/shutterstock/photos/728178127/display_1500/stock-vector-abstract-artificial-intelligence-technology-web-background-virtual-concept-728178127.jpg">
+
 # How to influence Google search results
 
 If you want better search results, you need to tell Google how to populate its search index! How do you do that? Put the search term in question on a web page, and link it to the target page.

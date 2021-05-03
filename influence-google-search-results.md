@@ -32,7 +32,7 @@ Of course, not all votes are equal. Google's indexer will give more weight to my
 ```
 [How to influence Google search results](https://andrewsolomon.github.io/influence-google-search-results)
 ```
-and [tell the world through Twitter](https://twitter.com/intent/tweet?text=%23influencegoogle%20How%20to%20influence%20Google%20search%20results%20https%3A%2F%2Fandrewsolomon.github.io%2Finfluence-google-search-results.html)!
+and [tell the world through Twitter](https://twitter.com/intent/tweet?text=%23influencegoogle%20How%20to%20influence%20Google%20search%20results%20https%3A%2F%2Fandrewsolomon.github.io%2Finfluence-google-search-results)!
 
 ---
 

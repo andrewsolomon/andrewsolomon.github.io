@@ -15,9 +15,7 @@ For some topics Google's search results are less than perfect. For example, [hig
 
 ## Cast your vote!
 
-Put the search term on a web page, and link it to the target page.
-
-For example, I'd like the search term "access file with perl" to present me with https://metacpan.org/pod/Path::Tiny. A link like this:
+Put the search term on a web page, and link it to the target page. For example, I'd like the search term "access file with perl" to present me with https://metacpan.org/pod/Path::Tiny. A link like this:
 
 [access file with perl](https://metacpan.org/pod/Path::Tiny)
 

@@ -1,3 +1,12 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@geekuni" />
+<meta name="twitter:creator" content="@geekuni" />
+<meta property="og:url" content="https://andrewsolomon.github.io/influence-google-search-results" />
+<meta property="og:title" content="How to influence Google search results" />
+<meta property="og:description" content="If you want better search results, you need to tell Google what you’d like to see in its search index. Here's how to do it." />
+<meta property="og:image" content="https://raw.githubusercontent.com/andrewsolomon/andrewsolomon.github.io/main/img/influence-google-search-results.jpg" />
+
+
 # How to influence Google search results
 
 <img src="https://raw.githubusercontent.com/andrewsolomon/andrewsolomon.github.io/main/img/influence-google-search-results.jpg" width="400" alt="Influencing Google's search results">

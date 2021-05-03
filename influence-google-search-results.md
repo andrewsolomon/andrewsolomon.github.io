@@ -1,6 +1,6 @@
 # How to influence Google search results
 
-![Influencing Google](https://raw.githubusercontent.com/andrewsolomon/andrewsolomon.github.io/main/img/influence-google.jpg)
+![Influencing Google](https://raw.githubusercontent.com/andrewsolomon/andrewsolomon.github.io/main/img/influence-google-search-results.jpg)
 
 For some topics ([such as Perl](https://blog.geekuni.com/2021/05/google-vs-perl.html)), Google's search results are less than perfect. If you want better search results, you need to tell Google what you'd like to see in its search index. How do you do that? Put the search term in question on a web page, and link it to the target page.
 

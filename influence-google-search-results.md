@@ -11,7 +11,11 @@
 
 <img src="https://raw.githubusercontent.com/andrewsolomon/andrewsolomon.github.io/main/img/influence-google-search-results.jpg" width="400" alt="Influencing Google's search results">
 
-For some topics ([such as Perl](https://blog.geekuni.com/2021/05/google-vs-perl.html)), Google's search results are less than perfect. If you want better search results, you need to tell Google what you'd like to see in its search index. How do you do that? Put the search term in question on a web page, and link it to the target page.
+For some topics Google's search results are less than perfect. For example, [high-ranking technical pages on Perl are out of date](https://blog.geekuni.com/2021/05/google-vs-perl.html). If you want better search results, you need to tell Google what you'd like to see in its search index. How do you do that?
+
+## Cast your vote!
+
+Put the search term on a web page, and link it to the target page.
 
 For example, I'd like the search term "access file with perl" to present me with https://metacpan.org/pod/Path::Tiny. A link like this:
 
@@ -19,9 +23,10 @@ For example, I'd like the search term "access file with perl" to present me with
 
 means that when Google crawls this page, it will consider it my vote to push that page toward the top of the search results.
 
-*Okay, how do I cast my vote?*
+## Okay, where's the voting booth?
 
 That's the easy bit - and it's free!
+
 * Create an account at [Github](https://github.com/).
 * [Create](https://pages.github.com/) a simple [markdown](https://guides.github.com/features/mastering-markdown/) web page.
 * Whenever you find a search term for which Google should get a better link, add it to your page.

@@ -1,12 +1,12 @@
 # How to influence Google search results
 
-If you want better search results, you need to tell Google how to populate its search index! How do you do that? Put the search term in question on a web page, and link it to the target page.
+For some topics ([such as Perl](https://blog.geekuni.com/2021/05/google-vs-perl.html)), Google's search results are less than perfect. If you want better search results, you need to tell Google what you'd like to see in its search index. How do you do that? Put the search term in question on a web page, and link it to the target page.
 
-For example, I'd like the search term "access file with perl" to get me the associated link https://metacpan.org/pod/Path::Tiny. A link like this:
+For example, I'd like the search term "access file with perl" to present me with https://metacpan.org/pod/Path::Tiny. A link like this:
 
 [access file with perl](https://metacpan.org/pod/Path::Tiny)
 
-means that when Google crawls this page, it will add my vote to improve the ranking of my favoured link to the search term.
+means that when Google crawls this page, it will consider it my vote to push that page toward the top of the search results.
 
 *Okay, how do I cast my vote?*
 
@@ -14,7 +14,6 @@ That's the easy bit - and it's free!
 * Create an account at [Github](https://github.com/).
 * [Create](https://pages.github.com/) a simple [markdown](https://guides.github.com/features/mastering-markdown/) web page.
 * Whenever you find a search term for which Google should get a better link, add it to your page.
-* Whenever you see a page which has a good mapping of links from the search terms, link to it!
 
 Here's the [source code](https://github.com/andrewsolomon/andrewsolomon.github.io/blame/main/influence-google-search-results.md) - with markdown it's really easy.
 

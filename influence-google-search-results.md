@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/andrewsolomon/andrewsolomon.github.io/main/img/influence-google-search-results.jpg" width="400" alt="Influencing Google's search results">
 
-For some topics Google's search results are less than perfect. For example, [high-ranking technical pages on Perl are out of date](https://blog.geekuni.com/2021/05/google-vs-perl.html). If you want better search results, you need to tell Google what you'd like to see in its search index. How do you do that?
+For some topics Google's search results are less than perfect. For example, [high-ranking technical pages on Perl are out of date](https://blog.geekuni.com/2021/05/google-perl-problem.html). If you want better search results, you need to tell Google what you'd like to see in its search index. How do you do that?
 
 ## Cast your vote!
 
